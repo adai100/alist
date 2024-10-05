@@ -60,7 +60,6 @@ import (
 	_ "github.com/alist-org/alist/v3/drivers/vtencent"
 	_ "github.com/alist-org/alist/v3/drivers/webdav"
 	_ "github.com/alist-org/alist/v3/drivers/weiyun"
-	_ "github.com/alist-org/alist/v3/drivers/uc_share"
 	_ "github.com/alist-org/alist/v3/drivers/wopan"
 	_ "github.com/alist-org/alist/v3/drivers/yandex_disk"
 )
